@@ -1,1 +1,1 @@
-# Decrypted-SecureToken-in-Wowza-Streaming-
+# Decrypted-SecureToken-in-Wowza-Streaming
